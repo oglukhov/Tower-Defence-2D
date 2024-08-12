@@ -1,0 +1,1055 @@
+fileFormatVersion: 2
+guid: 28be79cf9fe0cef44aa68f780f50532f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014switch on off button_6235907_0"
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 2222
+        width: 703
+        height: 7
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aceedd4663277d74b86b5a8707d03402
+      internalID: -201764013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014switch on off button_6235907_1"
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2215
+        width: 8
+        height: 7
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648f95baeb7df6641901814835c4a2fd
+      internalID: 146568638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014switch on off button_6235907_2"
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 2215
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8628d59fd35f6734bb142fd2934e5210
+      internalID: 1806270331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014switch on off button_6235907_3"
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 2208
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e53a3d16acd74840aa3157136970f42
+      internalID: 979738433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014switch on off button_6235907_4"
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 2201
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b450125c310121c43a90649686e2bb87
+      internalID: -384439509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014switch on off button_6235907_5"
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 2194
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4882409142b12d3449cd44788df57863
+      internalID: 1363479084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014switch on off button_6235907_6"
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1870
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135cf79bb6156e941bcc1064d20fec84
+      internalID: 1740726734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014switch on off button_6235907_7"
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1202
+        width: 1592
+        height: 992
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc65e195a0ac8c9428212c5b5fc755a5
+      internalID: -91632423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014switch on off button_6235907_8"
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 1828
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f81ca589df00674d8f3d437c87afc94
+      internalID: 1143198199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014switch on off button_6235907_9"
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1814
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcfddc6dcdddab4ea6eb6369551fda5
+      internalID: -681144204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014switch on off button_6235907_10"
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 1793
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cc8c8f3132e0547a702f81220eb7d0
+      internalID: 1314532170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014switch on off button_6235907_11"
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1779
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f1cd88cd8654244bd92da63f271271
+      internalID: 1816523616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014switch on off button_6235907_12"
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 1716
+        width: 7
+        height: 28
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffbff58bb53ed243a2f21cc71e40bb0
+      internalID: -354917857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014switch on off button_6235907_13"
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 1666
+        width: 7
+        height: 22
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b270b2138460dae4db5aa0a8a35ac322
+      internalID: 448039668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014switch on off button_6235907_14"
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1631
+        width: 6
+        height: 7
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f467493c5fd5b64ca5acd1aca22a7c9
+      internalID: -279597252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014switch on off button_6235907_15"
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 1610
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23b0ebdca508814ea61841dab841086
+      internalID: -285243434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014switch on off button_6235907_16"
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1589
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f00207ffb630af4ab2a04f540b6b6a8
+      internalID: 1620572748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014switch on off button_6235907_17"
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 1575
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbdb61f2702faa4ab6df3c3d97602cc
+      internalID: -1864128081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014switch on off button_6235907_18"
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1561
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f36e52f56d8fbc42991f7a76152cd2e
+      internalID: 792888098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014switch on off button_6235907_19"
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1202
+        width: 5
+        height: 28
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde7d09eecff0b34fb421b126e986fd4
+      internalID: 1503536743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014switch on off button_6235907_20"
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 1188
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0ce1bdae4548a409928dba6f8ea49f
+      internalID: 2036720485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014switch on off button_6235907_21"
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 176
+        width: 1593
+        height: 1006
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0945b5630adb0eb4b81b164ae72cb701
+      internalID: -1539100031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014switch on off button_6235907_22"
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 1181
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84902952ff609da4d9aac815d1d35297
+      internalID: -1529616925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014switch on off button_6235907_23"
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 865
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a0c7ac341aa8443af7e75129876da9
+      internalID: 917250411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014switch on off button_6235907_24"
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 858
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee76aa38d585eb6499b7fcbdf7bca519
+      internalID: -11839071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014switch on off button_6235907_25"
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 844
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f039780418a8af9498f56f6a8d894ea7
+      internalID: 1399073647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014switch on off button_6235907_26"
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 816
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223e19f697c67b249b8bff81b49efd97
+      internalID: 1924393997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014switch on off button_6235907_27"
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 780
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544a5135113470b43ada97dd8b126be1
+      internalID: 1554695919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014switch on off button_6235907_28"
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 766
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43e1edf3abcb2e408b99724e0659cb4
+      internalID: 1459609689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014switch on off button_6235907_29"
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 710
+        width: 7
+        height: 21
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194d40a88827faa4cb7ba4cd5a33332f
+      internalID: 334214316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014switch on off button_6235907_30"
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 654
+        width: 7
+        height: 21
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ea963620f9b744cb4f3f1fd60d1ee8
+      internalID: 1663696125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014switch on off button_6235907_31"
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 626
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290e6027c1093cc4a871f5bd6a8f79ba
+      internalID: 1857734210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014switch on off button_6235907_32"
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 598
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7cacfccca968f49a5f41b87e1376fe
+      internalID: 845823127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014switch on off button_6235907_33"
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 577
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e9a47faa0d6a844a6bb71ad47dd875
+      internalID: 1999674200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014switch on off button_6235907_34"
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 562
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd998f06afa93742aaec97d7b916033
+      internalID: -1333174738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014switch on off button_6235907_35"
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 513
+        width: 6
+        height: 7
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c93108f402c8a4a814f89fef5ce187
+      internalID: 495932147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014switch on off button_6235907_36"
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 176
+        width: 27
+        height: 12
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904461af1f6df8f4b9a24f46c80bb31a
+      internalID: -845340945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014switch on off button_6235907_37"
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 176
+        width: 7
+        height: 6
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f068cb36cd28fcd4fb1966e3dae08038
+      internalID: -1954289007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014switch on off button_6235907_38"
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 176
+        width: 14
+        height: 6
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3452b9e48768a448d55dd4adadf364
+      internalID: 711276515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014switch on off button_6235907_39"
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 176
+        width: 14
+        height: 4
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9f248a65e50974480b6ed0aab339b2
+      internalID: -829254306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014switch on off button_6235907_40"
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 176
+        width: 12
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c468db9ef96891148b561d9c84162d75
+      internalID: -48669413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "\u2014Pngtree\u2014switch on off button_6235907_0": -201764013
+      "\u2014Pngtree\u2014switch on off button_6235907_1": 146568638
+      "\u2014Pngtree\u2014switch on off button_6235907_10": 1314532170
+      "\u2014Pngtree\u2014switch on off button_6235907_11": 1816523616
+      "\u2014Pngtree\u2014switch on off button_6235907_12": -354917857
+      "\u2014Pngtree\u2014switch on off button_6235907_13": 448039668
+      "\u2014Pngtree\u2014switch on off button_6235907_14": -279597252
+      "\u2014Pngtree\u2014switch on off button_6235907_15": -285243434
+      "\u2014Pngtree\u2014switch on off button_6235907_16": 1620572748
+      "\u2014Pngtree\u2014switch on off button_6235907_17": -1864128081
+      "\u2014Pngtree\u2014switch on off button_6235907_18": 792888098
+      "\u2014Pngtree\u2014switch on off button_6235907_19": 1503536743
+      "\u2014Pngtree\u2014switch on off button_6235907_2": 1806270331
+      "\u2014Pngtree\u2014switch on off button_6235907_20": 2036720485
+      "\u2014Pngtree\u2014switch on off button_6235907_21": -1539100031
+      "\u2014Pngtree\u2014switch on off button_6235907_22": -1529616925
+      "\u2014Pngtree\u2014switch on off button_6235907_23": 917250411
+      "\u2014Pngtree\u2014switch on off button_6235907_24": -11839071
+      "\u2014Pngtree\u2014switch on off button_6235907_25": 1399073647
+      "\u2014Pngtree\u2014switch on off button_6235907_26": 1924393997
+      "\u2014Pngtree\u2014switch on off button_6235907_27": 1554695919
+      "\u2014Pngtree\u2014switch on off button_6235907_28": 1459609689
+      "\u2014Pngtree\u2014switch on off button_6235907_29": 334214316
+      "\u2014Pngtree\u2014switch on off button_6235907_3": 979738433
+      "\u2014Pngtree\u2014switch on off button_6235907_30": 1663696125
+      "\u2014Pngtree\u2014switch on off button_6235907_31": 1857734210
+      "\u2014Pngtree\u2014switch on off button_6235907_32": 845823127
+      "\u2014Pngtree\u2014switch on off button_6235907_33": 1999674200
+      "\u2014Pngtree\u2014switch on off button_6235907_34": -1333174738
+      "\u2014Pngtree\u2014switch on off button_6235907_35": 495932147
+      "\u2014Pngtree\u2014switch on off button_6235907_36": -845340945
+      "\u2014Pngtree\u2014switch on off button_6235907_37": -1954289007
+      "\u2014Pngtree\u2014switch on off button_6235907_38": 711276515
+      "\u2014Pngtree\u2014switch on off button_6235907_39": -829254306
+      "\u2014Pngtree\u2014switch on off button_6235907_4": -384439509
+      "\u2014Pngtree\u2014switch on off button_6235907_40": -48669413
+      "\u2014Pngtree\u2014switch on off button_6235907_5": 1363479084
+      "\u2014Pngtree\u2014switch on off button_6235907_6": 1740726734
+      "\u2014Pngtree\u2014switch on off button_6235907_7": -91632423
+      "\u2014Pngtree\u2014switch on off button_6235907_8": 1143198199
+      "\u2014Pngtree\u2014switch on off button_6235907_9": -681144204
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
